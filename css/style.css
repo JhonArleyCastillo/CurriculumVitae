@@ -42,8 +42,8 @@ h3{
 p{
     text-align: center;
 }
-.img3{
-    width: 5%;
-    display: block;
+.img3{ height: 100px;
+    width: 100px;
     margin: auto;
+    display:block;
 }
