@@ -1,22 +1,19 @@
 *{
     background-color: #f7270c;
     text-align: center;
-    display: inline-block;
+    display:inline-block
+    
 }
 .t1{
     text-align: center;
     padding: 20px;
-    display: block;
-    border-right: 1px solid #5f9EA0;
+    display: inline-block;
 }
-.t1 a:hover{
+.t1 a:hover{ 
     background-color: green;
     color:#f7270c;
 }
-.t1 a:active{
-    background-color: green;
-    color: yellow;
-}
+
 .img1{
         width: 5%;
         display: block;
@@ -27,9 +24,14 @@
         display: block;
         margin: auto;
 }
+.img3{
+    width: 5%;
+    display: block;
+    margin: auto;
+}
 
 *{
-    background-color: #f5fcff;
+    background-color: #ffffff;
 }
 h2{
     text-align: center;
@@ -42,8 +44,12 @@ h3{
 p{
     text-align: center;
 }
-.img3{ height: 100px;
+.img4{ height: 100px;
     width: 100px;
     margin: auto;
     display:block;
 }
+.t1 
+  .boton 
+    a :active
+    { background-color: rgb(255, 255, 255);}
